@@ -15,11 +15,11 @@
 <h2>🧾 Sobre mí</h2>
 
 <p align="left">
-🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad de Cartagena (Colombia), actualmente en 10º semestre. Me especializo en la gestión de proyectos tecnológicos, metodologías ágiles y la planificación estratégica de soluciones digitales.<br><br>
+🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad de Cartagena (Colombia), actualmente en 10º semestre. Me enfoco en el desarrollo frontend, creando interfaces modernas, responsivas y funcionales con tecnologías como <strong>React</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.<br><br>
 
-💡 Tengo un enfoque organizativo y colaborativo, con gusto por coordinar equipos, estructurar procesos y aplicar prácticas como <strong>Scrum</strong> y <strong>Kanban</strong> para lograr eficiencia y resultados sostenibles.<br><br>
+💡 Tengo experiencia en estructuración de componentes, manejo de estados, consumo de APIs REST, y control de versiones con <strong>Git</strong>. Me apasiona construir experiencias de usuario claras, intuitivas y bien diseñadas, usando herramientas como <strong>Figma</strong>, <strong>GitHub</strong> y <strong>Trello</strong>.<br><br>
 
-🚀 Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo web con <strong>React</strong> y fundamentos sólidos en <strong>HTML, CSS, JavaScript</strong> y <strong>Git</strong>, con el objetivo de liderar, organizar y aportar valor en productos frontend.<br><br>
+🚀 Además, me interesa la planificación estratégica, la organización de equipos y la aplicación de metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>, aportando valor tanto desde lo técnico como desde la gestión de proyectos digitales.
 
 🧠 También uso herramientas de diseño, planificación y trabajo en equipo como <strong>Figma, Trello, Notion y GitHub Projects</strong>.<br><br>
 
