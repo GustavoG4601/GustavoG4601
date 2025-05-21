@@ -21,8 +21,6 @@
 
 🚀 Además, me interesa la planificación estratégica, la organización de equipos y la aplicación de metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>, aportando valor tanto desde lo técnico como desde la gestión de proyectos digitales.
 
-🧠 También uso herramientas de diseño, planificación y trabajo en equipo como <strong>Figma, Trello, Notion y GitHub Projects</strong>.<br><br>
-
 🌍 Inglés: Nivel B2<br><br>
 
 📫 Contacto: gguerram@unicartagena.edu.co
