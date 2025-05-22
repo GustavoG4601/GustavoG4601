@@ -15,7 +15,7 @@
 <h2>🧾 Sobre mí</h2>
 
 <p align="left">
-🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad de Cartagena (Colombia), actualmente en 10º semestre. Me enfoco en el desarrollo frontend, creando interfaces modernas, responsivas y funcionales con tecnologías como <strong>React</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.<br><br>
+🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad de Cartagena (Colombia), actualmente en 10º semestre. Me enfoco en el desarrollo frontend, creando interfaces modernas, responsivas y funcionales con tecnologías como <strong>React</strong>, <strong>HTML</strong>, <strong>Tailwind CSS</strong> y <strong>JavaScript</strong>.<br><br>
 
 💡 Tengo experiencia en estructuración de componentes, manejo de estados, consumo de APIs REST, y control de versiones con <strong>Git</strong>. Me apasiona construir experiencias de usuario claras, intuitivas y bien diseñadas, usando herramientas como <strong>Figma</strong>, <strong>GitHub</strong> y <strong>Trello</strong>.<br><br>
 
