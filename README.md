@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/gustavo-adolfo-guerra-marquez-118161255" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:gustavoguerraa08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -15,15 +18,17 @@
 <h2>🧾 Sobre mí</h2>
 
 <p align="left">
-🎓 Soy estudiante de Ingeniería de Sistemas en la Universidad de Cartagena (Colombia), actualmente en 10º semestre. Me enfoco en el desarrollo frontend, creando interfaces modernas, responsivas y funcionales con tecnologías como <strong>React</strong>, <strong>HTML</strong>, <strong>Tailwind CSS</strong> y <strong>JavaScript</strong>.<br><br>
+🎓 Ingeniero de Sistemas egresado de la <strong>Universidad de Cartagena (Colombia)</strong>, con enfoque en <strong>desarrollo Fullstack</strong> y gestión de plataformas tecnológicas.<br><br>
 
-💡 Tengo experiencia en estructuración de componentes, manejo de estados, consumo de APIs REST, y control de versiones con <strong>Git</strong>. Me apasiona construir experiencias de usuario claras, intuitivas y bien diseñadas, usando herramientas como <strong>Figma</strong>, <strong>GitHub</strong> y <strong>Trello</strong>.<br><br>
+💻 Experiencia en el desarrollo de aplicaciones web utilizando tecnologías como <strong>PHP</strong>, <strong>React</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>HTML</strong>, <strong>CSS</strong>, y en la gestión de bases de datos <strong>MySQL</strong> y <strong>PostgreSQL</strong>.<br><br>
 
-🚀 Además, me interesa la planificación estratégica, la organización de equipos y la aplicación de metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>, aportando valor tanto desde lo técnico como desde la gestión de proyectos digitales.
+🤖 He participado en cursos y proyectos relacionados con <strong>Inteligencia Artificial</strong> y en la <strong>administración y personalización de plataformas educativas Moodle</strong>.<br><br>
 
-🌍 Inglés: Nivel B2<br><br>
+🚀 Me apasiona la creación de interfaces funcionales, seguras y escalables, aplicando <strong>buenas prácticas de desarrollo</strong> y metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>.<br><br>
 
-📫 Contacto: gguerram@unicartagena.edu.co
+🌍 Inglés: Nivel B2
+📫 Contacto: <a href="mailto:gustavoguerraa08@gmail.com">[gustavoguerraa08@gmail.com](mailto:gustavoguerraa08@gmail.com)</a>
+
 </p>
 
 ---
@@ -32,37 +37,39 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,python,mysql,postgresql,git,github,vscode,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=php,react,bootstrap,html,css,js,python,mysql,postgresql,git,github,vscode,figma&perline=9" />
   </a>
 </p>
 
 <ul>
-  <li>💻 Lenguajes: Java, C++, Python, HTML, CSS, JavaScript</li>
+  <li>💻 Lenguajes: PHP, JavaScript, Python, Java, C++, HTML, CSS</li>
   <li>🗃️ Bases de datos: MySQL, PostgreSQL</li>
+  <li>⚙️ Frameworks y Librerías: React, Bootstrap</li>
   <li>📦 Control de versiones: Git, GitHub</li>
   <li>🎨 Diseño y prototipado: Figma</li>
-  <li>📋 Gestión y organización: Trello, Notion, GitHub Projects</li>
-  <li>🧪 Modelado: Diagramas UML</li>
+  <li>📋 Gestión de proyectos: Trello, Notion, GitHub Projects</li>
+  <li>🧩 Modelado y documentación: UML, Diagramas ER</li>
   <li>🌀 Metodologías ágiles: Scrum, Kanban</li>
 </ul>
 
 ---
 
-<h2>📚 Tecnologías en Proceso de Estudio</h2>
+<h2>📚 En aprendizaje continuo</h2>
 
-- ⚛️ React JS (Hooks, Componentes, Routing, Context API)  
-- 🌐 HTML5 + CSS3 con diseño responsivo  
-- 🔧 JavaScript moderno (ES6+)  
-- 🧩 Manejo de estados en React  
-- 🔄 APIs REST  
-- 📁 Organización de proyectos reales con Git  
+* 🤖 Aplicaciones de Inteligencia Artificial
+* 🧱 Arquitectura de software y patrones de diseño
+* ☁️ Despliegue de proyectos en la nube
+* 🔐 Seguridad y autenticación web
+* 🧩 Integración de APIs REST y servicios externos
+* 🧠 Optimización de rendimiento Frontend y Backend
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoG4601&theme=dark&hide_border=false" />
   <br><br>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GustavoG4601&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
+
