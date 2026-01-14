@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Gustavo Adolfo Guerra Márquez ✨</h1>
+<h1 align="center">Hola  soy Gustavo Adolfo Guerra Márquez </h1>
 
 <p>
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Programando" width="300"/>
@@ -15,7 +15,7 @@
 
 ---
 
-<h2>🧾 Sobre mí</h2>
+<h2> Sobre mí</h2>
 
 <p align="left">
  Ingeniero de Sistemas egresado de la <strong>Universidad de Cartagena (Colombia)</strong>, con enfoque en <strong>desarrollo Fullstack</strong> y gestión de plataformas tecnológicas.<br><br>
@@ -33,7 +33,7 @@
 
 ---
 
-<h2>🛠 Tecnologías y Herramientas</h2>
+<h2> Tecnologías y Herramientas</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@
 
 ---
 
-<h2>📚 En aprendizaje continuo</h2>
+<h2> En aprendizaje continuo</h2>
 
 *  Aplicaciones de Inteligencia Artificial
 *  Arquitectura de software y patrones de diseño
