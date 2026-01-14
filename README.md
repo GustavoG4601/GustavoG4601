@@ -18,16 +18,16 @@
 <h2>🧾 Sobre mí</h2>
 
 <p align="left">
-🎓 Ingeniero de Sistemas egresado de la <strong>Universidad de Cartagena (Colombia)</strong>, con enfoque en <strong>desarrollo Fullstack</strong> y gestión de plataformas tecnológicas.<br><br>
+ Ingeniero de Sistemas egresado de la <strong>Universidad de Cartagena (Colombia)</strong>, con enfoque en <strong>desarrollo Fullstack</strong> y gestión de plataformas tecnológicas.<br><br>
 
-💻 Experiencia en el desarrollo de aplicaciones web utilizando tecnologías como <strong>PHP</strong>, <strong>React</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>HTML</strong>, <strong>CSS</strong>, y en la gestión de bases de datos <strong>MySQL</strong> y <strong>PostgreSQL</strong>.<br><br>
+ Experiencia en el desarrollo de aplicaciones web utilizando tecnologías como <strong>PHP</strong>, <strong>React</strong>, <strong>JavaScript</strong>, <strong>Bootstrap</strong>, <strong>HTML</strong>, <strong>CSS</strong>, y en la gestión de bases de datos <strong>MySQL</strong> y <strong>PostgreSQL</strong>.<br><br>
 
-🤖 He participado en cursos y proyectos relacionados con <strong>Inteligencia Artificial</strong> y en la <strong>administración y personalización de plataformas educativas Moodle</strong>.<br><br>
+ He participado en cursos y proyectos relacionados con <strong>Inteligencia Artificial</strong> y en la <strong>administración y personalización de plataformas educativas Moodle</strong>.<br><br>
 
-🚀 Me apasiona la creación de interfaces funcionales, seguras y escalables, aplicando <strong>buenas prácticas de desarrollo</strong> y metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>.<br><br>
+ Me apasiona la creación de interfaces funcionales, seguras y escalables, aplicando <strong>buenas prácticas de desarrollo</strong> y metodologías ágiles como <strong>Scrum</strong> y <strong>Kanban</strong>.<br><br>
 
-🌍 Inglés: Nivel B2
-📫 Contacto: <a href="mailto:gustavoguerraa08@gmail.com">[gustavoguerraa08@gmail.com](mailto:gustavoguerraa08@gmail.com)</a>
+ Inglés: Nivel B2
+ Contacto: <a href="mailto:gustavoguerraa08@gmail.com">[gustavoguerraa08@gmail.com](mailto:gustavoguerraa08@gmail.com)</a>
 
 </p>
 
@@ -42,30 +42,30 @@
 </p>
 
 <ul>
-  <li>💻 Lenguajes: PHP, JavaScript, Python, Java, C++, HTML, CSS</li>
-  <li>🗃️ Bases de datos: MySQL, PostgreSQL</li>
-  <li>⚙️ Frameworks y Librerías: React, Bootstrap</li>
-  <li>📦 Control de versiones: Git, GitHub</li>
-  <li>🎨 Diseño y prototipado: Figma</li>
-  <li>📋 Gestión de proyectos: Trello, Notion, GitHub Projects</li>
-  <li>🧩 Modelado y documentación: UML, Diagramas ER</li>
-  <li>🌀 Metodologías ágiles: Scrum, Kanban</li>
+  <li> Lenguajes: PHP, JavaScript, Python, Java, C++, HTML, CSS</li>
+  <li> Bases de datos: MySQL, PostgreSQL</li>
+  <li> Frameworks y Librerías: React, Bootstrap</li>
+  <li> Control de versiones: Git, GitHub</li>
+  <li> Diseño y prototipado: Figma</li>
+  <li> Gestión de proyectos: Trello, Notion, GitHub Projects</li>
+  <li> Modelado y documentación: UML, Diagramas ER</li>
+  <li> Metodologías ágiles: Scrum, Kanban</li>
 </ul>
 
 ---
 
 <h2>📚 En aprendizaje continuo</h2>
 
-* 🤖 Aplicaciones de Inteligencia Artificial
-* 🧱 Arquitectura de software y patrones de diseño
-* ☁️ Despliegue de proyectos en la nube
-* 🔐 Seguridad y autenticación web
-* 🧩 Integración de APIs REST y servicios externos
-* 🧠 Optimización de rendimiento Frontend y Backend
+*  Aplicaciones de Inteligencia Artificial
+*  Arquitectura de software y patrones de diseño
+*  Despliegue de proyectos en la nube
+*  Seguridad y autenticación web
+*  Integración de APIs REST y servicios externos
+*  Optimización de rendimiento Frontend y Backend
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoG4601&theme=dark&hide_border=false" />
