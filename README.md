@@ -55,7 +55,7 @@
 <ul>
   <li> <strong>Software de nómina</strong> — Se desarrolló desde cero para gestionar más de 150 usuarios. Se redujo el tiempo de procesamiento en más de 10 horas semanales.</li>
   <li> <strong>Automatización con IA para WhatsApp Business</strong> — Se construyó un sistema de atención al cliente en tiempo real con OpenAI API, Node.js y webhooks para restaurantes y tiendas.</li>
-  <li> <strong>Campus virtual — Universidad de Cartagena</strong> — Se desarrolló una plataforma para programas virtuales con inscripciones, información académica e interacción comunitaria.</li>
+  <li> <strong>Campus virtual — Posgrados virtuales</strong> — Se desarrolló una plataforma para programas virtuales con inscripciones, información académica e interacción comunitaria.</li>
   <li> <strong>Plugins de seguridad para Moodle</strong> — Se desarrollaron e implementaron en entornos LMS de posgrado para reforzar la seguridad de las plataformas académicas.</li>
   <li> <strong>Página web CerdycomJf</strong> — Se diseñó y desarrolló un sitio corporativo interactivo para empresa de seguridad, rastreo e internet.</li>
   <li> <strong>Plataforma de psicología</strong> — Se está desarrollando un sistema para gestión de usuarios, entrevistas y análisis en entorno clínico.</li>
